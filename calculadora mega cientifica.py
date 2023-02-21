@@ -1,0 +1,7 @@
+print("ola")
+print("sumar")
+numero_uno=int(input("ingrese numero uno"+" "))
+numero_dos=int(input("ingrese numero dos"+" ")) 
+numero_tres=(numero_uno)+(numero_dos)
+print("Tu resultado es",numero_tres,"conchetumare") 
+print("de nada")
